@@ -6,14 +6,14 @@
 
 | 排名 | 项目 | Star 数 |
 | --- | --- | ---: |
-| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,517 |
+| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,518 |
 | 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 172,487 |
-| 3 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 106,339 |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 99,279 |
+| 3 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 106,340 |
+| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 99,282 |
 | 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 96,969 |
 | 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 90,525 |
 | 7 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 69,656 |
-| 8 | [usestrix/strix](https://github.com/usestrix/strix) | 67,773 |
+| 8 | [usestrix/strix](https://github.com/usestrix/strix) | 67,774 |
 | 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 63,513 |
 | 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,492 |
 
