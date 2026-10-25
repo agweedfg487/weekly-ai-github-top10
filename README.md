@@ -13,7 +13,7 @@
 | 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 97,205 |
 | 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 91,758 |
 | 7 | [usestrix/strix](https://github.com/usestrix/strix) | 71,684 |
-| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,203 |
+| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,204 |
 | 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 64,369 |
 | 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,527 |
 
