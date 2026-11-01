@@ -1,21 +1,21 @@
 # Weekly AI —— GitHub AI 工具项目 Top 10
 
-> **排名依据：** 按 GitHub 在 **2026-10-25** 检索 `topic:artificial-intelligence`（附加条件：`stars:>1000`）所返回仓库的 Star 数降序整理。这是一份有日期的快照，不是永久榜单，也不代表对质量、安全性或适用性的主观排名。
+> **排名依据：** 按 GitHub 在 **2026-11-01** 检索 `topic:artificial-intelligence`（附加条件：`stars:>1000`）所返回仓库的 Star 数降序整理。这是一份有日期的快照，不是永久榜单，也不代表对质量、安全性或适用性的主观排名。
 
 ## 本周排名快照
 
 | 排名 | 项目 | Star 数 |
 | --- | --- | ---: |
-| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,731 |
-| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 174,412 |
-| 3 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 107,225 |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 102,838 |
-| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 97,205 |
-| 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 91,758 |
-| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 71,684 |
-| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,204 |
-| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 64,369 |
-| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,527 |
+| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,850 |
+| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 175,439 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 107,937 |
+| 4 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 107,609 |
+| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 97,475 |
+| 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 92,372 |
+| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 73,100 |
+| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,417 |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 64,694 |
+| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,538 |
 
 ## 1. AutoGPT
 **项目链接：** [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  
@@ -28,16 +28,16 @@ AutoGPT 是用于构建和运行 AI 智能体的开源框架。用户可将模�
 
 prompts.chat 原名 Awesome ChatGPT Prompts，是一个由社区维护的开源提示词集合与发现网站。它提供面向写作、编程、营销、学习等场景的可复用提示词模板，并支持自行部署，方便组织在更注重隐私和可控性的环境中管理提示词库。
 
-## 3. LLMs-from-scratch
+## 3. claude-mem
+**项目链接：** [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  
+
+claude-mem 为编程智能体提供跨会话的持久化、AI 压缩上下文。它会捕获相关操作并总结，在之后的会话中返回有用信息，减少重复说明和项目历史丢失，支持 Claude Code、Codex、Gemini、Copilot 与 OpenCode 等多种智能体环境。
+
+## 4. LLMs-from-scratch
 **项目链接：** [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)  
 **YouTube：** [相关官方／热门内容](https://www.youtube.com/results?search_query=Sebastian+Raschka+LLMs+from+Scratch)  
 
 LLMs from Scratch 是一个循序渐进地用 PyTorch 实现类 ChatGPT 大语言模型的教学代码库。项目涵盖分词、注意力机制、Transformer 架构、预训练与微调等核心环节，帮助读者理解现代语言模型在高层 API 之下的工作原理。
-
-## 4. claude-mem
-**项目链接：** [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  
-
-claude-mem 为编程智能体提供跨会话的持久化、AI 压缩上下文。它会捕获相关操作并总结，在之后的会话中返回有用信息，减少重复说明和项目历史丢失，支持 Claude Code、Codex、Gemini、Copilot 与 OpenCode 等多种智能体环境。
 
 ## 5. Deep-Live-Cam
 **项目链接：** [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  
@@ -76,6 +76,6 @@ Flowise 是一个可视化、低代码的 AI 应用与智能体构建平台。�
 
 ### 说明
 
-- “Top 10” 指 **2026-10-25** 当日上述 GitHub 检索条件返回结果中 Star 数最高的十个仓库。
+- “Top 10” 指 **2026-11-01** 当日上述 GitHub 检索条件返回结果中 Star 数最高的十个仓库。
 - 每个项目均包含 20–500 字的中文概述和项目官方 GitHub 链接；仅在存在相关官方频道、课程或热门内容时附上 YouTube 链接。
 - Star 数、项目简介和排名会持续变化。欢迎通过贡献刷新快照，并补充经核实的官方视频链接。
