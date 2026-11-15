@@ -1,81 +1,96 @@
 # Weekly AI —— GitHub AI 工具项目 Top 10
 
-> **排名依据：** 按 GitHub 在 **2026-11-08** 检索 `topic:artificial-intelligence`（附加条件：`stars:>1000`）所返回仓库的 Star 数降序整理。这是一份有日期的快照，不是永久榜单，也不代表对质量、安全性或适用性的主观排名。
+> **排名依据：** 按 GitHub 在 **2026-11-15** 检索 `topic:artificial-intelligence`（附加条件：`stars:>1000`）所返回仓库的 Star 数降序整理。这是一份有日期的快照，不是永久榜单，也不代表对质量、安全性或适用性的主观排名。
 
 ## 本周排名快照
 
 | 排名 | 项目 | Star 数 |
 | --- | --- | ---: |
-| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 187,934 |
-| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 176,251 |
-| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 114,516 |
-| 4 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 107,979 |
-| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 97,781 |
-| 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 92,903 |
-| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 74,281 |
-| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,626 |
-| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 64,992 |
-| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,562 |
+| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188,027 |
+| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 177,375 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 117,138 |
+| 4 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 108,416 |
+| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98,120 |
+| 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 93,480 |
+| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 75,590 |
+| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,791 |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 65,230 |
+| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,570 |
 
-## 1. AutoGPT
+
+## 1. Significant-Gravitas/AutoGPT
 **项目链接：** [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)  
-**YouTube：** [相关官方／热门内容](https://www.youtube.com/results?search_query=AutoGPT+official+demo)  
+**YouTube：** [相关官方／热门内容](AutoGPT 是一个开源的自主智能体框架，允许模型自行设定目标、调用工具、拆分任务并在循环中自我评估进展。它面向希望把大语言模型嵌入到真实工作流而不是只停留在问答界面的团队，支持接入网页浏览、代码执行、文件操作等多种扩展能力。请仅在合法授权的场景下运行自动化工具，避免对他人系统造成未授权影响。)  
 
-AutoGPT 是用于构建和运行 AI 智能体的开源框架。用户可将模型、工具和数据源组合成以目标为导向的工作流，让智能体完成任务分解、工具调用与重复工作的自动化，适合希望获得可扩展智能体基础设施而不只是单一聊天界面的开发者和团队。
+https://www.youtube.com/results?search_query=AutoGPT+official
 
-## 2. prompts.chat
+
+## 2. f/prompts.chat
 **项目链接：** [f/prompts.chat](https://github.com/f/prompts.chat)  
+**YouTube：** [相关官方／热门内容](prompts.chat（原名 Awesome ChatGPT Prompts）是一个社区驱动的开源提示词库与发现网站，收录了写作、编程、营销、教育等多个领域的即用型提示模板，并支持一键复制和自建部署，方便个人或组织在隐私可控的环境中管理与复用高质量提示词。)  
 
-prompts.chat 原名 Awesome ChatGPT Prompts，是一个由社区维护的开源提示词集合与发现网站。它提供面向写作、编程、营销、学习等场景的可复用提示词模板，并支持自行部署，方便组织在更注重隐私和可控性的环境中管理提示词库。
 
-## 3. claude-mem
+
+
+## 3. thedotmack/claude-mem
 **项目链接：** [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)  
+**YouTube：** [相关官方／热门内容](claude-mem 为编程智能体提供跨会话的持久化上下文机制。它在当前会话中捕获关键操作并以 AI 压缩的方式保存摘要，下次启动时再注入相关背景信息，从而减少重复说明和项目历史丢失问题；目前已覆盖 Claude Code、Codex、Gemini、Copilot 与 OpenCode 等常见智能体环境。)  
 
-claude-mem 为编程智能体提供跨会话的持久化、AI 压缩上下文。它会捕获相关操作并总结，在之后的会话中返回有用信息，减少重复说明和项目历史丢失，支持 Claude Code、Codex、Gemini、Copilot 与 OpenCode 等多种智能体环境。
 
-## 4. LLMs-from-scratch
+
+
+## 4. rasbt/LLMs-from-scratch
 **项目链接：** [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch)  
-**YouTube：** [相关官方／热门内容](https://www.youtube.com/results?search_query=Sebastian+Raschka+LLMs+from+Scratch)  
+**YouTube：** [相关官方／热门内容](LLMs from Scratch 是一本配套教学仓库，从零开始用 PyTorch 实现类似 ChatGPT 的语言模型，逐步讲解分词、注意力机制、Transformer 架构、预训练与微调等核心工程细节，帮助读者绕过高级封装层，直接理解现代大模型的内在原理。)  
 
-LLMs from Scratch 是一个循序渐进地用 PyTorch 实现类 ChatGPT 大语言模型的教学代码库。项目涵盖分词、注意力机制、Transformer 架构、预训练与微调等核心环节，帮助读者理解现代语言模型在高层 API 之下的工作原理。
+https://www.youtube.com/results?search_query=Sebastian+Raschka+LLMs
 
-## 5. Deep-Live-Cam
+
+## 5. hacksider/Deep-Live-Cam
 **项目链接：** [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)  
+**YouTube：** [相关官方／热门内容](Deep-Live-Cam 是一个实时人脸替换与视频合成实验项目，能够在本地利用单张参考图驱动摄像头画面进行换脸处理。这类技术存在明显的滥用风险，请务必只在取得被拍摄者明确知情同意且内容已充分披露的前提下使用，禁止用于伪造、冒充或生成误导他人视听材料。)  
 
-Deep-Live-Cam 是一个实时换脸与视频处理项目，可根据单张图像生成换脸效果，展示计算机视觉和生成式媒体的本地实验流程。请只在取得明确知情同意并清晰披露合成内容时使用；伪造人脸可能造成隐私、冒充和虚假信息风险。
 
-## 6. OpenHands
+
+
+## 6. OpenHands/OpenHands
 **项目链接：** [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands)  
-**YouTube：** [相关官方／热门内容](https://www.youtube.com/results?search_query=OpenHands+AI+official+demo)  
+**YouTube：** [相关官方／热门内容](OpenHands 是一个开源的 AI 驱动软件开发平台，通过可组合的智能体与代码仓库、终端、浏览器及外部 API 交互，帮助工程师把重复性实现与调试任务委托给自动化流程；它强调可观测性与可扩展性，适合研究者和希望在透明栈上构建自己编程智能体的团队。)  
 
-OpenHands 是一个开源的 AI 驱动软件开发平台。其智能体可结合代码仓库、终端和其他工具处理开发任务，协助工程师委派实现、调试和维护工作，面向希望使用透明且可扩展基础设施来构建与评估编程智能体的开发者。
+https://www.youtube.com/results?search_query=OpenHands+AI
 
-## 7. strix
+
+## 7. usestrix/strix
 **项目链接：** [usestrix/strix](https://github.com/usestrix/strix)  
+**YouTube：** [相关官方／热门内容](Strix 是一个聚焦于应用安全评估的开源智能体工具集，旨在辅助发现漏洞并提供修复建议。该项目将测试编排、报告生成与 LLM 推理结合以简化渗透测试流程；仅限在自己拥有所有权或已取得书面授权的系统上使用，未经授权的探测活动可能违反法律或服务条款。)  
 
-Strix 是一个开源的 AI 辅助渗透测试工具，重点用于发现并帮助修复应用程序漏洞。它通过结合智能体推理、测试工具和报告能力来支持安全评估流程；仅可对自己拥有或已获得明确授权的系统使用，未经授权的测试可能违法并干扰服务。
 
-## 8. AI-For-Beginners
+
+
+## 8. microsoft/AI-For-Beginners
 **项目链接：** [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners)  
-**YouTube：** [相关官方／热门内容](https://www.youtube.com/results?search_query=Microsoft+AI+for+Beginners+course)  
+**YouTube：** [相关官方／热门内容](Microsoft 推出的 AI for Beginners 是一套为期十二周、共二十四课的结构化入门教材，以讲解加练习的方式覆盖机器学习基础、神经网络、计算机视觉、自然语言处理和负责任 AI 等核心主题，配合测验与实践作业，适合刚开始接触人工智能概念与方法的学习者。)  
 
-Microsoft 的 AI for Beginners 是一套为期十二周、共二十四课的结构化入门课程。它通过讲解、示例、测验和实践练习介绍机器学习、神经网络、计算机视觉、自然语言处理与负责任 AI，适合刚开始学习人工智能概念与实践方法的人。
+https://www.youtube.com/results?search_query=Microsoft+AI+for+Beginners
 
-## 9. minimind
+
+## 9. jingyaogong/minimind
 **项目链接：** [jingyaogong/minimind](https://github.com/jingyaogong/minimind)  
+**YouTube：** [相关官方／热门内容](MiniMind 是一套从零训练小型语言模型的紧凑型教学仓库，引导读者完成数据预处理、Tokenizer 设计、模型结构实现、训练脚本编写到结果评测的完整闭环，帮助不具备大规模算力条件的学习者在有限资源下理解大模型训练的底层工程逻辑。)  
 
-MiniMind 是一个从零训练小型语言模型的紧凑型学习项目。示例带领使用者完成数据准备、模型定义、训练与评估等端到端步骤，使学生和实践者无需大规模基础设施，也能动手理解大语言模型的训练机制与工程流程。
 
-## 10. Flowise
+
+
+## 10. FlowiseAI/Flowise
 **项目链接：** [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)  
-**YouTube：** [相关官方／热门内容](https://www.youtube.com/@FlowiseAI)  
+**YouTube：** [相关官方／热门内容](Flowise 是一个可视化、低代码的 AI 应用与工作流构建平台，用户可以通过拖拽方式连接大语言模型、检索引擎、工具和记忆模块，再把导出的流程部署为可集成服务，适合快速搭建检索增强生成、客服聊天机器人和其他定制化智能体原型。)  
 
-Flowise 是一个可视化、低代码的 AI 应用与智能体构建平台。用户可通过图形化流程连接语言模型、检索系统、工具、API 与记忆模块，再部署或集成得到的工作流，适用于快速原型化聊天机器人、检索增强生成系统和定制化智能体应用。
+https://www.youtube.com/@FlowiseAI
 
 ---
 
 ### 说明
 
-- “Top 10” 指 **2026-11-08** 当日上述 GitHub 检索条件返回结果中 Star 数最高的十个仓库。
+- "Top 10" 指 **2026-11-15** 当日上述 GitHub 检索条件返回结果中 Star 数最高的十个仓库。
 - 每个项目均包含 20–500 字的中文概述和项目官方 GitHub 链接；仅在存在相关官方频道、课程或热门内容时附上 YouTube 链接。
 - Star 数、项目简介和排名会持续变化。欢迎通过贡献刷新快照，并补充经核实的官方视频链接。
