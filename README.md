@@ -1,21 +1,21 @@
 # Weekly AI —— GitHub AI 工具项目 Top 10
 
-> **排名依据：** 按 GitHub 在 **2026-11-15** 检索 `topic:artificial-intelligence`（附加条件：`stars:>1000`）所返回仓库的 Star 数降序整理。这是一份有日期的快照，不是永久榜单，也不代表对质量、安全性或适用性的主观排名。
+> **排名依据：** 按 GitHub 在 **2026-11-22** 检索 `topic:artificial-intelligence`（附加条件：`stars:>1000`）所返回仓库的 Star 数降序整理。这是一份有日期的快照，不是永久榜单，也不代表对质量、安全性或适用性的主观排名。
 
 ## 本周排名快照
 
 | 排名 | 项目 | Star 数 |
 | --- | --- | ---: |
-| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188,027 |
-| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 177,375 |
-| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 117,138 |
-| 4 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 108,416 |
-| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98,120 |
-| 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 93,480 |
-| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 75,590 |
-| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 70,791 |
-| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 65,230 |
-| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,570 |
+| 1 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | 188,126 |
+| 2 | [f/prompts.chat](https://github.com/f/prompts.chat) | 178,199 |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 118,860 |
+| 4 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | 108,779 |
+| 5 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | 98,572 |
+| 6 | [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) | 93,974 |
+| 7 | [usestrix/strix](https://github.com/usestrix/strix) | 76,934 |
+| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | 71,136 |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 68,172 |
+| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | 55,583 |
 
 
 ## 1. Significant-Gravitas/AutoGPT
@@ -91,6 +91,6 @@ https://www.youtube.com/@FlowiseAI
 
 ### 说明
 
-- "Top 10" 指 **2026-11-15** 当日上述 GitHub 检索条件返回结果中 Star 数最高的十个仓库。
+- "Top 10" 指 **2026-11-22** 当日上述 GitHub 检索条件返回结果中 Star 数最高的十个仓库。
 - 每个项目均包含 20–500 字的中文概述和项目官方 GitHub 链接；仅在存在相关官方频道、课程或热门内容时附上 YouTube 链接。
 - Star 数、项目简介和排名会持续变化。欢迎通过贡献刷新快照，并补充经核实的官方视频链接。
